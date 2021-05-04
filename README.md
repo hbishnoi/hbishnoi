@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Himanshu Bishnoi
+- 👀 I’m interested in Software Engineer roles
+- 🌱 I’m currently improving my Data Structures and Algorithm
+- 💞️ I’m looking to collaborate on different software projects
+- 📫 You can reach me on hbishnoi@stevens.edu
